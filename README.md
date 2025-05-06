@@ -13,4 +13,4 @@ This repository contains the code and analysis pipeline for identifying causal r
 Install required dependencies via pip:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn networkx causallearn causalicp
+pip install pandas numpy matplotlib seaborn scikit-learn networkx causallearn
